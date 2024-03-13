@@ -1,3 +1,3 @@
-function testing() {
-alert('test');
-}
+const testing = () => {
+    alert('test');
+};
