@@ -1,3 +1,3 @@
-const testing = () => {
+window.testing = () => {
     alert('test');
 };
